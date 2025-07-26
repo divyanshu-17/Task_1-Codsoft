@@ -1,4 +1,5 @@
 # 🛳️ Titanic Survival Prediction
+https://colab.research.google.com/drive/1ZnamJnvkdfuqmDaQSGQXyP0UVdrPhyaH?authuser=1#scrollTo=WQCVF0c_18v6
 
 This project uses the classic Titanic dataset to build a machine learning model that predicts whether a passenger survived the Titanic disaster based on features like age, sex, passenger class, fare, and more.
 
